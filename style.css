@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+}
+#header-logo {
+    background-color: #212425;
+    height: 50px;
+}
+#logo-text{
+    width: 85%;
+    float: left;
+}
+#text-logo{
+    margin-top: 7px;
+    margin-left: 2%;
+    font-size: 20px;
+    color: white;
+    font-family: Arial;
+}
+#button-buy{
+    background-color:#0074c2;
+    width: 15%;
+    float: left;
+}
+#text-btn-buy {
+    text-align: center;
+    color: white;
+    font-family:VnTimeH;
+}
+#header-menu{
+    background-color: #17191a;
+    height: 40px;
+    float: left;
+    width: 100%;
+}
+#ul-header-menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.li-header-menu {
+    float: left;
+}
+.a-header-menu{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 12px;
+}
