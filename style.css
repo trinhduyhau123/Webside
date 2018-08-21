@@ -49,3 +49,37 @@ body{
     text-decoration: none;
     font-size: 12px;
 }
+
+#screenultimate {
+    background-color: black;
+    width: 1680px;
+    height: 3000px;
+    margin-top: -40px;
+}
+#contend1-1 {
+    text-align: center;
+    color: White;
+    font-size: 35px;
+    padding-top: 124px;
+}
+#contend1-2 {
+    text-align: center;
+    color: White;
+    padding-top: 60px;
+    font-size: 23px;
+
+}
+#contend1-3 {
+    text-align: center;
+    color: White;
+    font-size: 51px;
+}
+#contend1-4 {
+    text-align: center;
+    color: White;
+}
+.text-on-image1 {
+    position: relative;
+    text-align: center;
+    color: white;
+}
